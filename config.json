@@ -1,9 +1,6 @@
-(ini hapus aja , Jangan lupa subscribe lemes aku cuk)
-
-
 {
-	"ip":"vanevo.aternos.me",
-	"port": "25565",
-	"name": "boboserver",
-	"auto-night-skip":"false"
+	"ip":"Kaidoku.aternos.me",
+	"port": "60714",
+	"name": "Kaido",
+	"auto-night-skip":"true"
 }
